@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1165_8500_684",
+    "image": "https://romanrohozhkingd.github.io/rohozhkin_gd/image1.jpg",
+    "details": {
+      "classId": "1165",
+      "color": "Xxxx684",
+      "displayName": "Flex Polo",
+      "styleId": "8500",
+      "colorCode": "684",
+      "type": "merchandisingProduct",
+      "brand": "SomeBrand",
+      "productType": "Regular"
+    }
+  },
+  {
+    "id": "2211_1508_897",
+    "image": "https://romanrohozhkingd.github.io/rohozhkin_gd/image2.jpg",
+    "details": {
+      "classId": "2211",
+      "color": "Xxxx897",
+      "displayName": "Denim skirt",
+      "styleId": "1508",
+      "colorCode": "897",
+      "type": "merchandisingProduct",
+      "brand": "SomeBrand",
+      "productType": "Regular"
+    }
+  },
+  {
+    "id": "3322_8822_748",
+    "image": "https://romanrohozhkingd.github.io/rohozhkin_gd/image3.jpg",
+    "details": {
+      "classId": "3322",
+      "color": "Xxxx748",
+      "displayName": "The best t-shirt",
+      "styleId": "8822",
+      "colorCode": "684",
+      "type": "merchandisingProduct",
+      "brand": "NewBrand",
+      "productType": "Fancy"
+    }
+  }
+]
